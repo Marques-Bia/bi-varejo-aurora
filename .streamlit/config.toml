@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+primaryColor = "#293796"
+backgroundColor = "#F7F8FC"
+secondaryBackgroundColor = "#EEF1FA"
+textColor = "#1B2470"
+font = "sans serif"
+
+[server]
+headless = true
